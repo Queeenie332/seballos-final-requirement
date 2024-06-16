@@ -6,7 +6,7 @@ show_pages(
     [   
         Page("home.py", "ITEQMT Machine Learning Application Portfolio", "💻"),
         Section("Machine Learning UI App", "🧙‍♂️"),
-        Page("pages/aboutme.py", "ABOUT QUEENIE LYNN SEBALLOS", "1️⃣", in_section=True),
+        Page("pages/aboutme.py", "ABOUT HAROLD CRUZ", "1️⃣", in_section=True),
         Page("pages/discription.py", "APP DESCRIPTION", "2️⃣", in_section=True),
         Page("pages/learnings.py", "WHAT I HAVE LEARN?", "3️⃣", in_section=True),
     
@@ -115,26 +115,4 @@ footer {visibility: hidden;}
 """
 
 # st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-st.markdown("""
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Id neque aliquam vestibulum morbi blandit cursus risus. Sagittis nisl rhoncus mattis rhoncus. 
-Purus viverra accumsan in nisl nisi scelerisque eu. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. 
-Eleifend quam adipiscing vitae proin. Neque convallis a cras semper auctor neque. Et tortor consequat id porta nibh. 
-Vitae nunc sed velit dignissim sodales ut eu. Bibendum ut tristique et egestas quis ipsum suspendisse. 
-Pharetra massa massa ultricies mi. In nulla posuere sollicitudin aliquam ultrices sagittis. Et pharetra pharetra massa massa. 
-Pretium viverra suspendisse potenti nullam ac. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor. 
-Nibh mauris cursus mattis molestie a iaculis at erat. Diam sit amet nisl suscipit. 
-Urna molestie at elementum eu facilisis sed odio morbi quis. Arcu non sodales neque sodales.
-            
-### ⭐ Star the project on Github  <iframe src="https://ghbtns.com/github-btn.html?user=koalatech&repo=streamlit_web_app&type=star&count=true"  width="150" height="20" title="GitHub"></iframe>   
-""", unsafe_allow_html=True)
-
-hide_streamlit_style = """
-<style>
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-</style>
-"""
-
 # st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
