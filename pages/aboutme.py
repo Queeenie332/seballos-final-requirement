@@ -3,7 +3,7 @@ import streamlit as st
 def show_about_me():
     st.markdown("# ABOUT ME")
     st.markdown("""
-    Hey there! 👋 I'm a third-year BSIS student with a passion for technology and a love for exploring new ideas. When I'm not buried in code or studying, you'll often find me on the basketball court, strumming my guitar, or lost in the world of music. These hobbies are not just pastimes for me; they are avenues for relaxation and creative expression.
+ I am an extrovert with a passion for the arts, thriving on engaging with others and expressing my creativity in vibrant, dynamic ways. My outgoing personality and artistic talents make me the life of any gathering, always ready to inspire and energize those around me.
     """)
 
     st.markdown("---")
@@ -17,23 +17,23 @@ def show_about_me():
 
     with st.expander("More about me"):
         st.markdown("""
-        My journey in BSIS has been filled with exciting challenges and rewarding experiences. I'm particularly interested in exploring machine learning applications and developing solutions that make a difference. Learning about AI and its real-world applications has been a fascinating part of my academic journey so far.
-
+       My journey in a BSIS course has been both challenging and rewarding, as I navigate the complexities of information systems and strive to master the integration of technology and business. Despite the tough demands of the coursework, the sense of accomplishment and joy I feel with each milestone makes the experience incredibly fulfilling.
+        
         ### Personal Interests
 
-        - **Basketball**: I'm passionate about basketball and enjoy playing both casually with friends and competitively.
-        - **Guitar**: Playing the guitar is my creative outlet. It allows me to unwind and explore my musical interests.
-        - **Music**: I have a diverse taste in music, ranging from classic rock to contemporary pop. Music is my constant companion during study sessions and leisure time.
-
+        - **Taekwondo**: I love practicing Taekwondo; it's exhilarating.
+        - **Reading Books and Novels**:Reading books and novels inspires me.
+        - **Arts and Drawing**: Arts and drawing unleash my creativity.
+        
         ### Future Goals
 
-        Looking ahead, I'm eager to continue learning and growing in the field of information systems. My goal is to leverage my skills and knowledge to contribute meaningfully to the tech industry and beyond.
+        In the next 5 years, I aim to excel in my BSIS career, achieve a black belt in Taekwondo, and continue enriching my life through reading and artistic endeavors.
         """)
 
     st.markdown("---")
 
-    st.info("Connect with me on [Facebook](https://web.facebook.com/harold.gravela.cruz/)")
-    st.info("Visit my personal website [here](https://web.facebook.com/harold.gravela.cruz/)")
+    st.info("Connect with me on [Facebook](https://web.facebook.com/queenie.seballos)")
+    st.info("Visit my personal website [here](https://web.facebook.com/queenie.seballos)")
 
 # Main function to run the app
 def main():
