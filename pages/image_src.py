@@ -59,5 +59,5 @@ if my_upload is not None:
 else:
     st.write("## Welcome!")
     st.write("Upload an image to get started.")
-    st.write("This app is developed by Harold Cruz.")
+    st.write("This app is developed by Queenie Lynn Seballos.")
 """)
