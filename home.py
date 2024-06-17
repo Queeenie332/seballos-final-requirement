@@ -28,12 +28,12 @@ show_pages(
 
 hide_pages(["Thank you"])
 
-st.markdown("### 👨‍🔧 ML Learning by [Harold Cruz](https://github.com/hlcruzz/cruz-3B)")
+st.markdown("### 👨‍🔧 ML Learning by [Queenie Lynn Seballos](https://github.com/Queeenie332/seballos-final-requirement)")
 
 st.image("./p1.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
 
-st.info("Visit the project [Github](https://github.com/hlcruzz/cruz-3B)")
+st.info("Visit the project [Github](https://github.com/Queeenie332/seballos-final-requirement)")
 st.info("👨‍🔧 Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
