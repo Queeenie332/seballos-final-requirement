@@ -35,8 +35,8 @@ model = load_model()
 svc_model = extract_model(model)
 
 # Streamlit Web App Interface
-st.write("## Mushroom Dataset (Binary Classification) Model")
-st.write("Upload an image of a fruit, and we'll predict its category based on our trained model!")
+st.write("## Mushroom Dataset (Binary Classification) Model 🍄 ")
+st.write("Upload an image of a mushroom, and we'll predict its category based on our trained model!")
 st.sidebar.write("## Upload and Download")
 
 # Streamlit columns for displaying the image and prediction
